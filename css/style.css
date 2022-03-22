@@ -1,0 +1,344 @@
+*{
+	margin: 0px;
+	padding: 0 auto;
+}
+.container{
+	width: 1140px;
+    margin: 0 auto;
+
+}
+body {
+    background-color: #f6f9f9;
+}
+.row{
+display: flex;
+    flex-wrap: wrap;
+       margin-right: -3px;
+    margin-left: 24px;
+}
+.logo{
+
+}
+.logo img{
+	    margin: 14px auto;
+}
+.banner{
+	background: url(../img/Strict.JPG);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.content{
+	text-align: center;
+
+}
+.content h1{
+padding-top: 226px;
+    font-size: 89px;
+    color: #ffffff;
+}
+span{
+    width: 590px;
+    display: block;
+    border: 1px solid #15a4fa;
+       margin: 39px auto;
+}
+.content p{
+	    font-size: 21px;
+    color: white;
+}
+.btn{
+    margin: 60px auto;
+    padding: 12px 10px 12px;
+    background-color: transparent;
+    border: 1px solid #15a4fa;
+    color: white;
+    display: inline-block;
+    font-size: 22px;
+}
+.btn:hover{
+    border: 1px solid #ffffff;
+    color: cornflowerblue;
+    display: inline-block;
+
+}
+.fas.fa-angle-down {
+     display: block;
+     color: white;
+     font-size: 32px;
+     margin-top: 52px;
+ }
+ .about{
+ 	text-align: center;
+ 
+ }
+ .about h2{
+   margin: 61px;
+    font-size: 54px;
+ }
+ .about p{
+    margin: 32px;
+    font-size: 23px;
+    color: #2d3950;
+ }
+ .service{
+ 	background-color: white;
+    padding: 30px 0px;
+ }
+ .fas.fa-mobile{
+    width: 100px;
+    height: 100px;
+    font-size: 90px;
+    background-color: #48baff;
+    line-height: 100px;
+    color: white;
+    margin-bottom: 25px;
+ }
+  .one{
+  	text-align: center;
+  	    margin-top: 70px;
+  	    margin-right: 85px;
+  }
+ .one h3{
+font-size: 27px;
+    margin-top: 3px;
+ }
+  .one p{
+ 	    font-size: 15px;
+    margin-top: 11px;
+ }
+ .fas.fa-paper-plane{
+width: 100px;
+    height: 100px;
+    font-size: 90px;
+    background-color: #48baff;
+    line-height: 100px;
+    color: white;
+    margin-bottom: 25px;
+ }
+  .two{
+  	text-align: center;
+  	    margin-top: 70px;
+  	    margin-right: 85px;
+  }
+  .two h3{
+ 	font-size: 27px;
+    margin-top: 3px;
+ }
+  .two p{
+ 	    font-size: 15px;
+    margin-top: 11px;
+ }
+ .fas.fa-bullhorn{
+width: 100px;
+    height: 100px;
+    font-size: 90px;
+    background-color: #48baff;
+    line-height: 100px;
+    color: white;
+    margin-bottom: 25px;
+ }
+  .three{
+  	text-align: center;
+  	    margin-top: 70px;
+margin-right: 85px;
+  }
+  .three h3{
+font-size: 27px;
+    margin-top: 3px;
+ }
+  .three p{
+ 	    font-size: 15px;
+    margin-top: 11px;
+ }
+
+ .showcase{
+ 	text-align: center;
+    padding-top: 32px;
+
+ }
+  .showcase h3{
+font-size: 39px;
+    margin: 11px;
+  }
+   .showcase p{
+    font-size: 24px;
+    margin: 27px;
+   }
+   .show-img{
+    margin-bottom: 80px;
+    text-align: center;
+   }
+   .aa{
+    margin-right: 5px;
+   }
+    .aa img{
+
+    }
+   .bb{
+    margin-right: 5px;
+   }
+   .bb img{
+    	
+    }
+   .cc{
+    margin-right: 5px;
+   }
+   .cc img{
+    	
+    }
+   .dd{
+    margin-right: 5px;
+    padding-top: 20px;
+   }
+   .dd img{
+    	width: 359px;
+    height: 262px;
+    }
+   .ee{
+    margin-right: 5px;
+    padding-top: 20px;
+   }
+   .ee img{
+    	
+    }
+   .ff{
+    margin-right: 5px;
+    padding-top: 20px;
+   }
+   .ff img{
+    	
+    }
+    .footer{
+background: url(../img/01.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 25px 0;
+    padding-bottom: 118px;
+}
+.footer h2{
+color: white;
+    font-size: 44px;
+    margin-top: 19px;
+}
+.footer p{
+	color: white;
+    font-size: 18px;
+    margin-top: 20px;
+}
+.name{
+        display: block;
+    width: 550px;
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    background-color: transparent;
+    color: #84868a;
+    border: 1px solid #999999;
+    margin-left: 246px;
+    margin-bottom: 15px;
+}
+.email{
+   display: block;
+    width: 550px;
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    background-color: transparent;
+    color: #84868a;
+    border: 1px solid #999999;
+    margin-left: 246px;
+    margin-bottom: 15px;
+}
+.message{
+   display: block;
+    width: 550px;
+    padding: 10px 11px 175px;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    background-color: transparent;
+    color: #84868a;
+    border: 1px solid #999999;
+    margin-left: 246px;
+    margin-bottom: 15px;
+}
+.checkbox{
+	float: left;
+    margin-left: 253px;
+    margin-top: 23px;
+}
+.frm{
+padding-top: 55px;
+}
+.frm p{
+	float: left;
+    padding-left: 18px;
+}
+.last-btn{
+margin-top: 16px;
+    margin-left: 250px;
+    padding: 16px 36px 16px 36px;
+    color: white;
+    background: transparent;
+    border-color: #8daaff;
+}
+.last-btn:hover{
+	color: #8daaff;
+    background: transparent;
+    border-color: white;
+}
+.last-foter{
+
+}
+.Copyritht{
+
+}
+
+.Copyritht h4{
+    font-size: 17px;
+    margin-top: 32px;
+    margin-bottom: 18px;
+}
+.last-icon{
+text-align: right;
+    margin: 0px auto;
+    margin-top: 19px;
+    margin-right: 72px;
+}
+.fab.fa-facebook-square {
+    height: 40px;
+    width: 40px;
+    background-color: #15a4fa;
+    text-align: center;
+    line-height: 40px;
+    font-size: 25px;
+    color: white;
+}
+.fab.fa-twitter{
+height: 40px;
+    width: 40px;
+    background-color: #15a4fa;
+    text-align: center;
+    line-height: 40px;
+    font-size: 25px;
+    color: white;
+}
+.fab.fa-google-plus-g{
+	height: 40px;
+    width: 40px;
+    background-color: #15a4fa;
+    text-align: center;
+    line-height: 40px;
+    font-size: 25px;
+    color: white;
+}
+.fab.fa-linkedin-in{
+height: 40px;
+    width: 40px;
+    background-color: #15a4fa;
+    text-align: center;
+    line-height: 40px;
+    font-size: 25px;
+    color: white;
+}

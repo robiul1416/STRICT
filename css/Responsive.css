@@ -1,0 +1,266 @@
+/* Extra large devices (large laptops and desktops, 1200px and down) */
+@media only screen and (max-width: 1330px) {
+
+
+.row {
+  margin-left: 0px;
+}
+
+}
+
+
+
+
+/* Large devices (laptops/desktops, 1024px and down) */
+@media only screen and (max-width: 1024px) {
+
+.about h2 {
+  margin-left: -93px;
+}
+.about {
+  display: flex;
+}
+.service {
+  margin-left: 73px;
+}
+.one {
+  margin-right: 30px;
+}
+.two {
+  margin-right: 17px;
+}
+.showcase h3 {
+  margin-left: -42px;
+}
+.showcase p {
+  margin-left: -32px;
+}
+
+.aa img {
+  width: 88%;
+  margin-left: -49px;
+}
+.bb img {
+  width: 88%;
+  margin-left: -49px;
+}
+.cc img {
+  width: 88%;
+  margin-left: -49px;
+}
+.dd img {
+  width: 88%;
+  margin-left: -35px;
+  height: 206px;
+}
+.ee img {
+  width: 80%;
+  margin-left: -46px;
+  margin-right: 36px;
+}
+.ff img {
+  width: 90%;
+  margin-left: -86px;
+  margin-right: 36px;
+}
+.container {
+  width: 1013px!important;
+}
+.row {
+  margin-left: -25px;
+}
+.about h2 {
+  margin-left: 27px;
+}
+
+}
+
+
+/* small devices (phones, 768px and down) */
+@media only screen and (max-width: 768px) {
+
+.content h1 {
+  margin-right: 177px;
+}
+span {
+  margin: 42px 115px;
+}
+.content p {
+  display: flex;
+  margin-left: 127px;
+}
+.btn {
+  margin-right: 229px;
+}
+.fas.fa-angle-down {
+  margin-right: 219px;
+}
+.container {
+  max-width: 768px!important;
+}
+.row {
+  display: block;
+}
+.one {
+  margin-right: 150px;
+}
+.two {
+  margin-right: 150px;
+}
+.three {
+  margin-right: 150px;
+}
+.logo img {
+  margin-left: 39px;
+}
+.aa {
+  width: 60%;
+  margin-left: 181px;
+}
+.bb {
+  width: 60%;
+  margin-left: 181px;
+}
+.cc {
+  width: 60%;
+  margin-left: 181px;
+}
+.dd {
+  width: 60%;
+  margin-left: 181px;
+}
+.ee img {
+  width: 53%;
+  margin-left: 53px;
+}
+.ff img {
+  width: 54%;
+  margin-left: 51px;
+}
+.frm {
+  margin-left: -109px;
+}
+.checkbox {
+  margin-left: 365px;
+}
+.content p {
+  margin-left: 14px;
+}
+.last-btn {
+  margin-top: 63px;
+  margin-left: -488px;
+}
+.Copyritht {
+  text-align: start;
+  margin-left: 38px;
+}
+.last-icon {
+  margin-top: -52px;
+  margin-right: 50px;
+  margin-bottom: 22px;
+}
+}
+
+/* Extra small devices (phones, 552px and down) */
+@media only screen and (max-width: 552px) {
+
+.content h1 {
+  font-size: 31px;
+  margin-left: 140px;
+}
+span {
+  width: 332px;
+}
+
+.content p {
+  font-size: 14px;
+margin-left: 78px;
+}
+.btn {
+  margin-right: -4px;
+}
+.container{
+    max-width: 552px;
+}
+.fas.fa-angle-down {
+  margin-right: 0;
+}
+.one {
+  margin-right: 318px;
+}
+.two {
+  margin-right: 318px;
+}
+.three {
+  margin-right: 318px;
+}
+.showcase h3 {
+  margin-left: -186px;
+  font-size: 21px;
+}
+
+.showcase p {
+  margin-left: -172px;
+  font-size: 16px;
+}
+.aa img {
+  margin-left: -236px;
+}
+.bb img {
+  margin-left: -240px;
+}
+.cc img {
+  margin-left: -237px;
+}
+.dd img {
+  margin-left: -233px;
+  height: 281px;
+}
+.ee img {
+  margin-left: -149px;
+}
+.ff img {
+  margin-left: -140px;
+}
+.footer h2 {
+  font-size: 38px;
+  margin-left: -176px;
+}
+.footer p {
+  font-size: 15px;
+  margin-left: -174px;
+}
+.frm {
+  margin-left: -203px;
+}
+.name {
+  width: 412px;
+}
+.email{
+     width: 412px;
+}
+.message{
+   width: 412px;    
+}
+.checkbox {
+  margin-left: 515px;
+}
+.last-btn {
+  margin-left: -592px;
+}
+.Copyritht h4 {
+  font-size: 13px;
+}
+.last-icon {
+  margin-right: 251px;
+}
+}
+
+
+
+/* Extra small devices (phones, 411px and down) */
+@media only screen and (max-width: 411px) {
+
+
+
+ }
